@@ -1,0 +1,3 @@
+USERNAME	FOLLOWERS
+user2	2
+user2	2
