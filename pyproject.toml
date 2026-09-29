@@ -1,0 +1,10 @@
+[project]
+name = "sql-lab"
+version = "0.1.0"
+description = "sql work for DS2022"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "mysql-connector-python>=26.7.0",
+    "pandas>=3.0.6",
+]
